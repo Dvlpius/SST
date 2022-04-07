@@ -1,0 +1,4 @@
+# SST
+SuperSmartTerminal is a Mod
+
+In this senario we have a Terminal_Mod prgoram by c language do anything like show directory content,buy this  programs in SST_Mod can track user argumans after 3_Exec and memorized UsrAction,so in next time user don't need to enter argumans and just by type program name and FilePath, progam fetch action from Self_Memory and add argumans automatic in SST_Mod.
